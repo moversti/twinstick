@@ -89,5 +89,10 @@ end
 -- 	table.insert(bullets, {x = position.x, y = position.y, dx = bulletDx, dy = bulletDy,age=0})
 -- end
 
+-- function love.keypressed(key)
+-- 	if key == "f" then
+-- 		love.window.setFullscreen(true)
+-- 	end
+-- end
 
 
